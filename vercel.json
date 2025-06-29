@@ -19,9 +19,5 @@
       "src": "/api/modulos",
       "dest": "api/modulos.js"
     }
-  ],
-  "includeFiles": [
-    "cursos.json",
-    "modulos.json"
   ]
 }
