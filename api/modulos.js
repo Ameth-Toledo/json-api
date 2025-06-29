@@ -1,11 +1,6 @@
-import fs from 'fs';
-import path from 'path';
+import modulo from '../modulos.json';
 
 export default function handler(req, res) {
-  const filePath = path.resolve(process.cwd(), 'modulos.json');
-  const fileData = fs.readFileSync(filePath, 'utf-8');
-  const modulo = JSON.parse(fileData);
-
   const { id_curso, titulo } = req.query;
 
   let resultados = modulo;
