@@ -9,7 +9,7 @@
     "descripcion": "Aprende a desplegar bases de datos en AWS EC2, usando MySQL Aurora, facil y rapido"
   },
   {
-    "id": 5,
+    "id": 2,
     "nombre": "Despligue de API Rest en AWS",
     "nivel": "Basico",
     "duracion": "8 semanas",
@@ -20,13 +20,13 @@
   },
   {
     "id": 3,
-    "nombre": "Curso de Base de Datos",
-    "nivel": "Avanzado",
-    "duracion": "10 semanas",
-    "tecnologia": "MySQL",
-    "fecha": "15 Julio 2025",
-    "imagen": "https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png",
-    "descripcion": "Domina la creación, gestión y optimización de bases de datos relacionales con MySQL."
+    "nombre": "Despliegue de frontend en AWS EC2",
+    "nivel": "Básico",
+    "duracion": "6 semanas",
+    "tecnologia": "html, css, Js",
+    "fecha": "6 Julio 2025",
+    "imagen": "https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2018/08/31/React-Amplify.jpg",
+    "descripcion": "Aprende a desplegar tu aplicación web de cualquier framework en AWS EC2 con nginx server, configuracion de proxy."
   },
   {
     "id": 4,
@@ -47,5 +47,15 @@
     "fecha": "6 Julio 2025",
     "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
     "descripcion": "Conoce cómo construir servidores y APIs usando Node.js con JavaScript del lado del backend."
+  },
+  {
+    "id": 6,
+    "nombre": "Curso de Base de Datos",
+    "nivel": "Avanzado",
+    "duracion": "10 semanas",
+    "tecnologia": "MySQL",
+    "fecha": "15 Julio 2025",
+    "imagen": "https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png",
+    "descripcion": "Domina la creación, gestión y optimización de bases de datos relacionales con MySQL."
   }
 ]
