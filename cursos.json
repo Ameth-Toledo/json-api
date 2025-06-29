@@ -1,21 +1,29 @@
 [
   {
     "id": 1,
-    "nombre": "Curso de React",
-    "nivel": "Intermedio",
+    "nombre": "Curso de Python",
+    "nivel": "Basico",
     "duracion": "8 semanas",
+    "tecnologia": "Python",
+    "fecha": "29 Junio 2025",
     "imagen": "https://blog.vermiip.es/wp-content/uploads/2023/10/Python-Symbol_0.png"
   },
   {
     "id": 2,
     "nombre": "Curso de Node.js",
     "nivel": "Básico",
-    "duracion": "6 semanas"
+    "duracion": "6 semanas",
+    "tecnologia": "Node.js",
+    "fecha": "6 Julio 2025",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
   },
   {
     "id": 3,
     "nombre": "Curso de Base de Datos",
     "nivel": "Avanzado",
-    "duracion": "10 semanas"
+    "duracion": "10 semanas",
+    "tecnologia": "MySQL",
+    "fecha": "15 Julio 2025",
+    "imagen": "https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png"
   }
 ]
