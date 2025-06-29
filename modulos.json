@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "id_curso": 1,
+    "imagen_portada": "https://imagen.ejemplo.com/puertos.png",
+    "titulo": "Configuración de puertos en instancia de AWS",
+    "descripcion": "configuración correcta de los puertos para exponer tu base de datos en AWS de forma segura.",
+    "video": "https://youtube.com/"
+  },
+  {
+    "id": 2,
+    "id_curso": 1,
+    "imagen_portada": "https://imagen.ejemplo.com/aurora.png",
+    "titulo": "Instalación de MySQL",
+    "descripcion": "Instalación de dependencias nesesarias para correr la base de datos.",
+    "video": "https://youtube.com/ejemplo2"
+  },
+  {
+    "id": 3,
+    "id_curso": 2,
+    "imagen_portada": "https://imagen.ejemplo.com/api-cors.png",
+    "titulo": "Configuración de CORS para API REST",
+    "descripcion": "Cómo configurar CORS correctamente en tu API desplegada en AWS.",
+    "video": "https://youtube.com/ejemplo3"
+  }
+]
