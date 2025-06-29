@@ -1,13 +1,12 @@
-[
-  {
+[{
     "id": 1,
-    "nombre": "Curso de Python",
+    "nombre": "Despliegue de base de datos en AWS",
     "nivel": "Basico",
-    "duracion": "8 semanas",
-    "tecnologia": "Python",
-    "fecha": "29 Junio 2025",
-    "imagen": "https://blog.vermiip.es/wp-content/uploads/2023/10/Python-Symbol_0.png",
-    "descripcion": "Aprende los fundamentos de Python desde cero, ideal para principiantes que quieren empezar en la programación."
+    "duracion": "10 semanas",
+    "tecnologia": "MySQL, AWS",
+    "fecha": "15 Julio 2025",
+    "imagen": "https://i.ytimg.com/vi/A83W7oxy7vU/maxresdefault.jpg",
+    "descripcion": "Aprende a desplegar bases de datos en AWS EC2, usando MySQL Aurora, facil y rapido"
   },
   {
     "id": 2,
@@ -28,5 +27,15 @@
     "fecha": "15 Julio 2025",
     "imagen": "https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png",
     "descripcion": "Domina la creación, gestión y optimización de bases de datos relacionales con MySQL."
+  },
+  {
+    "id": 4,
+    "nombre": "Curso de Python",
+    "nivel": "Basico",
+    "duracion": "8 semanas",
+    "tecnologia": "Python",
+    "fecha": "29 Junio 2025",
+    "imagen": "https://blog.vermiip.es/wp-content/uploads/2023/10/Python-Symbol_0.png",
+    "descripcion": "Aprende los fundamentos de Python desde cero, ideal para principiantes que quieren empezar en la programación."
   }
 ]
