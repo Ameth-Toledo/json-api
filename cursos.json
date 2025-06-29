@@ -6,7 +6,8 @@
     "duracion": "8 semanas",
     "tecnologia": "Python",
     "fecha": "29 Junio 2025",
-    "imagen": "https://blog.vermiip.es/wp-content/uploads/2023/10/Python-Symbol_0.png"
+    "imagen": "https://blog.vermiip.es/wp-content/uploads/2023/10/Python-Symbol_0.png",
+    "descripcion": "Aprende los fundamentos de Python desde cero, ideal para principiantes que quieren empezar en la programación."
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "duracion": "6 semanas",
     "tecnologia": "Node.js",
     "fecha": "6 Julio 2025",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+    "descripcion": "Conoce cómo construir servidores y APIs usando Node.js con JavaScript del lado del backend."
   },
   {
     "id": 3,
@@ -24,6 +26,7 @@
     "duracion": "10 semanas",
     "tecnologia": "MySQL",
     "fecha": "15 Julio 2025",
-    "imagen": "https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png"
+    "imagen": "https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png",
+    "descripcion": "Domina la creación, gestión y optimización de bases de datos relacionales con MySQL."
   }
 ]
