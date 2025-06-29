@@ -1,28 +1,21 @@
-import modulos from '../modulos.json';
+import cursos from '../cursos.json';
 
 export default function handler(req, res) {
-  const { id_curso, titulo } = req.query;
+  const { id, nombre } = req.query;
 
-  // Filtrar por ID del curso
-  if (id_curso) {
-    const relacionados = modulos.filter(m =>
-      m.id_curso === parseInt(id_curso)
-    );
-    return relacionados.length
-      ? res.status(200).json(relacionados)
-      : res.status(404).json({ error: 'No se encontraron módulos para este curso' });
+  if (id) {
+    const curso = cursos.find(c => c.id === parseInt(id));
+    return curso
+      ? res.status(200).json(curso)
+      : res.status(404).json({ error: 'Curso no encontrado' });
   }
 
-  // Filtrar por título parcial
-  if (titulo) {
-    const coincidencias = modulos.filter(m =>
-      m.titulo.toLowerCase().includes(titulo.toLowerCase())
+  if (nombre) {
+    const coincidencias = cursos.filter(c =>
+      c.nombre.toLowerCase().includes(nombre.toLowerCase())
     );
-    return coincidencias.length
-      ? res.status(200).json(coincidencias)
-      : res.status(404).json({ error: 'No se encontraron módulos con ese título' });
+    return res.status(200).json(coincidencias);
   }
 
-  // Devolver todos los módulos
-  res.status(200).json(modulos);
+  res.status(200).json(cursos);
 }
