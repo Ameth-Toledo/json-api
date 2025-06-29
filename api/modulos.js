@@ -1,24 +1,27 @@
-import modulo from '../modulos.json';
+import cursos from './cursos.json';  // Tu lista de cursos
+import modulos from './modulos.json'; // Tus módulos
 
 export default function handler(req, res) {
-  const { id_curso, titulo } = req.query;
+  const { nombre_curso } = req.query;
 
-  let resultados = modulo;
+  if (nombre_curso) {
+    // Convertir a formato normal (con espacios)
+    const nombreBuscado = nombre_curso.replace(/_/g, ' ').toLowerCase();
 
-  if (id_curso) {
-    resultados = resultados.filter(item => item.id_curso === parseInt(id_curso));
-  }
-
-  if (titulo) {
-    const tituloLower = titulo.toLowerCase();
-    resultados = resultados.filter(item =>
-      item.titulo.toLowerCase().includes(tituloLower)
+    // Buscar curso por nombre
+    const curso = cursos.find(c =>
+      c.nombre.toLowerCase() === nombreBuscado
     );
+
+    if (!curso) {
+      return res.status(404).json({ error: 'Curso no encontrado' });
+    }
+
+    // Obtener los módulos que pertenecen al curso
+    const modulosDelCurso = modulos.filter(m => m.id_curso === curso.id);
+    return res.status(200).json(modulosDelCurso);
   }
 
-  if (resultados.length === 0) {
-    return res.status(404).json({ error: 'No se encontraron módulos que coincidan' });
-  }
-
-  res.status(200).json(resultados);
+  // Si no se pasa nombre_curso
+  res.status(400).json({ error: 'Parámetro requerido: nombre_curso' });
 }
