@@ -4,12 +4,24 @@
     {
       "src": "api/cursos.js",
       "use": "@vercel/node"
+    },
+    {
+      "src": "api/modulos.js",
+      "use": "@vercel/node"
     }
   ],
   "routes": [
     {
       "src": "/api/cursos",
       "dest": "api/cursos.js"
+    },
+    {
+      "src": "/api/modulos",
+      "dest": "api/modulos.js"
     }
+  ],
+  "includeFiles": [
+    "cursos.json",
+    "modulos.json"
   ]
 }
