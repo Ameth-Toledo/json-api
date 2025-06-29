@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "nombre": "Curso de React",
+    "nivel": "Intermedio",
+    "duracion": "8 semanas",
+    "imagen": "https://blog.vermiip.es/wp-content/uploads/2023/10/Python-Symbol_0.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Curso de Node.js",
+    "nivel": "Básico",
+    "duracion": "6 semanas"
+  },
+  {
+    "id": 3,
+    "nombre": "Curso de Base de Datos",
+    "nivel": "Avanzado",
+    "duracion": "10 semanas"
+  }
+]
