@@ -45,17 +45,17 @@
     "duracion": "6 semanas",
     "tecnologia": "Node.js",
     "fecha": "6 Julio 2025",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+    "imagen": "https://ameth-toledo.github.io/recursos/images/5.png",
     "descripcion": "Conoce cómo construir servidores y APIs usando Node.js con JavaScript del lado del backend."
   },
   {
     "id": 6,
-    "nombre": "Curso de Base de Datos",
+    "nombre": "Programación Orientada a Objetos",
     "nivel": "Avanzado",
     "duracion": "10 semanas",
     "tecnologia": "MySQL",
     "fecha": "15 Julio 2025",
-    "imagen": "https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png",
+    "imagen": "https://ameth-toledo.github.io/recursos/images/6.png",
     "descripcion": "Domina la creación, gestión y optimización de bases de datos relacionales con MySQL."
   }
 ]
