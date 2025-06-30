@@ -20,6 +20,5 @@ export default function handler(req, res) {
     return res.status(404).json({ error: 'No se encontraron módulos que coincidan' });
   }
 
-  // Devolver resultados filtrados
   res.status(200).json(resultados);
 }
