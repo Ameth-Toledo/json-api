@@ -4,26 +4,37 @@ import modulos from '../modulos.json';
 export default function handler(req, res) {
   const { nombre_curso } = req.query;
 
-  console.log('Nombre curso recibido:', nombre_curso);
-
   if (!nombre_curso) {
     return res.status(400).json({ error: 'Parámetro requerido: nombre_curso' });
   }
 
+  // Normalizar guiones bajos a espacios y pasar a minúsculas
   const nombreBuscado = nombre_curso.replace(/_/g, ' ').toLowerCase();
-  console.log('Nombre buscado normalizado:', nombreBuscado);
 
+  // Buscar el curso en tu JSON
   const curso = cursos.find(c =>
     c.nombre.toLowerCase() === nombreBuscado
   );
 
   if (!curso) {
-    console.log('Curso no encontrado');
     return res.status(404).json({ error: 'Curso no encontrado' });
   }
 
-  console.log('Curso encontrado:', curso);
-
+  // Filtrar todos los módulos que tengan ese id_curso
   const modulosDelCurso = modulos.filter(m => m.id_curso === curso.id);
-  return res.status(200).json(modulosDelCurso);
+
+  // Devolver ambos: datos del curso y arreglo de módulos
+  return res.status(200).json({
+    curso: {
+      id: curso.id,
+      nombre: curso.nombre,
+      nivel: curso.nivel,
+      duracion: curso.duracion,
+      tecnologia: curso.tecnologia,
+      fecha: curso.fecha,
+      imagen: curso.imagen,
+      descripcion: curso.descripcion
+    },
+    modulos: modulosDelCurso
+  });
 }
