@@ -15,7 +15,7 @@
     "duracion": "8 semanas",
     "tecnologia": "JavaScript(NodeJs), AWS",
     "fecha": "29 Junio 2025",
-    "imagen": "https://miro.medium.com/v2/resize:fit:1400/1*OcKtpzk23K4zMKStku4VmQ.png",
+    "imagen": "https://ameth-toledo.github.io/recursos/images/2.png",
     "descripcion": "Aprende a desplegar API's Rest en AWS con nodejs y npm mas configuracion de CORS."
   },
   {
@@ -25,17 +25,17 @@
     "duracion": "6 semanas",
     "tecnologia": "html, css, Js",
     "fecha": "6 Julio 2025",
-    "imagen": "https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2018/08/31/React-Amplify.jpg",
+    "imagen": "https://ameth-toledo.github.io/recursos/images/3.png",
     "descripcion": "Aprende a desplegar tu aplicación web de cualquier framework en AWS EC2 con nginx server, configuracion de proxy."
   },
   {
     "id": 4,
-    "nombre": "Curso de Python",
+    "nombre": "Logica Basica en JavaScript",
     "nivel": "Basico",
     "duracion": "8 semanas",
-    "tecnologia": "Python",
+    "tecnologia": "JavaScript",
     "fecha": "29 Junio 2025",
-    "imagen": "https://blog.vermiip.es/wp-content/uploads/2023/10/Python-Symbol_0.png",
+    "imagen": "https://ameth-toledo.github.io/recursos/images/4.png",
     "descripcion": "Aprende los fundamentos de Python desde cero, ideal para principiantes que quieren empezar en la programación."
   },
   {
