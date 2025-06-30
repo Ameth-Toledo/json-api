@@ -2,7 +2,7 @@
     "id": 1,
     "nombre": "Despliegue de base de datos en AWS",
     "nivel": "Basico",
-    "duracion": "10 semanas",
+    "duracion": "4 modulos",
     "tecnologia": "MySQL, AWS",
     "fecha": "15 Julio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/Despliegue%20de%20Bases%20de%20Datos.png",
