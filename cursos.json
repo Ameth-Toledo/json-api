@@ -2,42 +2,42 @@
   {
     "id": 1,
     "nombre": "Despliegue de base de datos en AWS EC2",
-    "nivel": "Basico",
-    "duracion": "4 modulos",
+    "nivel": "Básico",
+    "duracion": "4 módulos",
     "tecnologia": "MySQL, AWS",
     "fecha": "15 Julio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/Despliegue%20de%20Bases%20de%20Datos.png",
-    "descripcion": "Aprende a desplegar bases de datos en AWS EC2, usando MySQL Aurora, facil y rapido"
+    "descripcion": "Aprende a instalar y configurar bases de datos MySQL en AWS EC2, con buenas prácticas de seguridad y conexión remota."
   },
   {
     "id": 2,
-    "nombre": "Despligue de API's Rests en AWS EC2",
-    "nivel": "Basico",
+    "nombre": "Despliegue de API's Rests en AWS EC2",
+    "nivel": "Básico",
     "duracion": "8 semanas",
     "tecnologia": "JavaScript, AWS",
     "fecha": "29 Junio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/2.png",
-    "descripcion": "Aprende a desplegar API's Rest en AWS con nodejs y npm mas configuracion de CORS."
+    "descripcion": "Despliega tus APIs REST creadas con Node.js en AWS EC2, con configuración de entorno, CORS y dependencias."
   },
   {
     "id": 3,
     "nombre": "Despliegue de frontend en AWS EC2",
     "nivel": "Básico",
     "duracion": "6 semanas",
-    "tecnologia": "html, css, Js",
+    "tecnologia": "HTML, CSS, JS",
     "fecha": "6 Julio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/3.png",
-    "descripcion": "Aprende a desplegar tu aplicación web de cualquier framework en AWS EC2 con nginx server, configuracion de proxy."
+    "descripcion": "Publica tus sitios web en AWS EC2 usando Nginx, con configuración de proxy para cualquier framework frontend."
   },
   {
     "id": 4,
-    "nombre": "Logica de Programación Basica en JavaScript",
-    "nivel": "Basico",
+    "nombre": "Lógica de Programación Básica en JavaScript",
+    "nivel": "Básico",
     "duracion": "8 semanas",
     "tecnologia": "JavaScript",
     "fecha": "29 Junio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/4.png",
-    "descripcion": "Este curso está diseñado para introducirte en el mundo de la programación a través del lenguaje JavaScript, uno de los más utilizados en el desarrollo web. A lo largo de 8 semanas aprenderás los conceptos fundamentales de la lógica de programación como variables, estructuras condicionales, bucles, funciones y manejo de arreglos. Todo esto mediante explicaciones claras, ejemplos prácticos y ejercicios interactivos que te permitirán comprender cómo se estructura y resuelve un problema desde el pensamiento lógico. Es ideal para personas sin experiencia previa que deseen dar sus primeros pasos en el desarrollo de software de forma sencilla y efectiva."
+    "descripcion": "Aprende los fundamentos de programación con JavaScript: variables, bucles, condicionales, funciones y más."
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "tecnologia": "Node.js",
     "fecha": "6 Julio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/5.png",
-    "descripcion": "Conoce cómo construir servidores y APIs usando Node.js con JavaScript del lado del backend."
+    "descripcion": "Crea APIs RESTful con Node.js y Express, organizando rutas, middlewares y respuestas JSON de forma eficiente."
   },
   {
     "id": 6,
@@ -57,6 +57,6 @@
     "tecnologia": "MySQL",
     "fecha": "15 Julio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/6.png",
-    "descripcion": "Domina la creación, gestión y optimización de bases de datos relacionales con MySQL."
+    "descripcion": "Domina los principios de la POO aplicados a proyectos con MySQL: clases, objetos, herencia y encapsulamiento."
   }
 ]
