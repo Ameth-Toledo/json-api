@@ -11,10 +11,10 @@
   },
   {
     "id": 2,
-    "nombre": "Despligue de API Rest en AWS EC2",
+    "nombre": "Despligue de API's Rests en AWS EC2",
     "nivel": "Basico",
     "duracion": "8 semanas",
-    "tecnologia": "JavaScript(NodeJs), AWS",
+    "tecnologia": "JavaScript, AWS",
     "fecha": "29 Junio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/2.png",
     "descripcion": "Aprende a desplegar API's Rest en AWS con nodejs y npm mas configuracion de CORS."
