@@ -6,6 +6,7 @@
     "titulo": "Configuración de puertos en instancia de AWS",
     "descripcion": "configuración correcta de los puertos para exponer tu base de datos en AWS de forma segura.",
     "video_url": "",
+    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado aqui aprenderas a como ",
     "repositorio": ""
   },
   {
@@ -15,6 +16,7 @@
     "titulo": "Instalación de MySQL",
     "descripcion": "Instalación de dependencias nesesarias para correr la base de datos.",
     "video_url": "",
+    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado aqui aprenderas a como ",
     "repositorio": ""
   },
   {
@@ -24,6 +26,7 @@
     "titulo": "Configuración de MySQL para Acceso Remoto",
     "descripcion": "Configuracion de acceso remoto para permitir todas las conexiones remotas.",
     "video_url": "",
+    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado aqui aprenderas a como ",
     "repositorio": ""
   },
   {
@@ -33,6 +36,7 @@
     "titulo": "Conexión con workbech por medio de IP",
     "descripcion": "Configuracion de acceso remoto para permitir todas las conexiones remotas.",
     "video_url": "",
+    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado aqui aprenderas a como ",
     "repositorio": ""
   },
   {
@@ -42,6 +46,7 @@
     "titulo": "Configuración de CORS para API REST",
     "descripcion": "Cómo configurar CORS correctamente en tu API desplegada en AWS.",
     "video_url": "",
+    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado aqui aprenderas a como ",
     "repositorio": ""
   }
 ]
