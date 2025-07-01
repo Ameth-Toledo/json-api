@@ -6,7 +6,7 @@
     "titulo": "Configuración de puertos en instancia de AWS",
     "descripcion": "configuración correcta de los puertos para exponer tu base de datos en AWS de forma segura.",
     "video_url": "",
-    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado aqui aprenderas a como ",
+    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado. Aquí aprenderás a cómo configurar correctamente los puertos en tu instancia de AWS para exponer servicios de manera segura.",
     "repositorio": ""
   },
   {
@@ -14,9 +14,9 @@
     "id_modulo": 2,
     "imagen_portada": "aws",
     "titulo": "Instalación de MySQL",
-    "descripcion": "Instalación de dependencias nesesarias para correr la base de datos.",
+    "descripcion": "Instalación de dependencias necesarias para correr la base de datos.",
     "video_url": "",
-    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado aqui aprenderas a como ",
+    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado. Aquí aprenderás a cómo instalar MySQL y sus dependencias para que puedas correr tu base de datos sin problemas.",
     "repositorio": ""
   },
   {
@@ -24,9 +24,9 @@
     "id_modulo": 3,
     "imagen_portada": "aws",
     "titulo": "Configuración de MySQL para Acceso Remoto",
-    "descripcion": "Configuracion de acceso remoto para permitir todas las conexiones remotas.",
+    "descripcion": "Configuración de acceso remoto para permitir todas las conexiones remotas.",
     "video_url": "",
-    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado aqui aprenderas a como ",
+    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado. Aquí aprenderás a cómo habilitar el acceso remoto a tu base de datos MySQL desde cualquier parte.",
     "repositorio": ""
   },
   {
@@ -34,9 +34,9 @@
     "id_modulo": 4,
     "imagen_portada": "aws",
     "titulo": "Conexión con workbech por medio de IP",
-    "descripcion": "Configuracion de acceso remoto para permitir todas las conexiones remotas.",
+    "descripcion": "Configuración de acceso remoto para permitir todas las conexiones remotas.",
     "video_url": "",
-    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado aqui aprenderas a como ",
+    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado. Aquí aprenderás a cómo conectarte a tu base de datos usando Workbench a través de la IP pública.",
     "repositorio": ""
   },
   {
@@ -46,7 +46,7 @@
     "titulo": "Configuración de CORS para API REST",
     "descripcion": "Cómo configurar CORS correctamente en tu API desplegada en AWS.",
     "video_url": "",
-    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado aqui aprenderas a como ",
+    "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado. Aquí aprenderás a cómo configurar correctamente CORS en tu API REST para que funcione sin errores desde cualquier frontend.",
     "repositorio": ""
   }
 ]
