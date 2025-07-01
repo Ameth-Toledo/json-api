@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "nombre": "Curso de Node.js",
+    "nombre": "Creación de API Rest con Node.js - Express()",
     "nivel": "Básico",
     "duracion": "6 semanas",
     "tecnologia": "Node.js",
