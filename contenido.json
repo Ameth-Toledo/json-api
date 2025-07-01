@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "Despliegue de base de datos en AWS EC2",
+    "nombre": "Configuración de puertos en instancia de AWS",
     "nivel": "Basico",
     "duracion": "4 modulos",
     "tecnologia": "MySQL, AWS",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "nombre": "Despligue de API Rest en AWS EC2",
+    "nombre": "Despligue de API Rest en AWS",
     "nivel": "Basico",
     "duracion": "8 semanas",
     "tecnologia": "JavaScript(NodeJs), AWS",

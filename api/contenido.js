@@ -1,0 +1,1 @@
+import contenido from '../contenido.json';
