@@ -31,13 +31,13 @@
   },
   {
     "id": 4,
-    "nombre": "Logica Basica en JavaScript",
+    "nombre": "Logica de Programación Basica en JavaScript",
     "nivel": "Basico",
     "duracion": "8 semanas",
     "tecnologia": "JavaScript",
     "fecha": "29 Junio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/4.png",
-    "descripcion": "Aprende los fundamentos de Python desde cero, ideal para principiantes que quieren empezar en la programación."
+    "descripcion": "Este curso está diseñado para introducirte en el mundo de la programación a través del lenguaje JavaScript, uno de los más utilizados en el desarrollo web. A lo largo de 8 semanas aprenderás los conceptos fundamentales de la lógica de programación como variables, estructuras condicionales, bucles, funciones y manejo de arreglos. Todo esto mediante explicaciones claras, ejemplos prácticos y ejercicios interactivos que te permitirán comprender cómo se estructura y resuelve un problema desde el pensamiento lógico. Es ideal para personas sin experiencia previa que deseen dar sus primeros pasos en el desarrollo de software de forma sencilla y efectiva."
   },
   {
     "id": 5,
