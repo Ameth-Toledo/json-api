@@ -5,9 +5,9 @@
     "imagen_portada": "aws-blanco",
     "titulo": "Configuración de puertos en instancia de AWS",
     "descripcion": "configuración correcta de los puertos para exponer tu base de datos en AWS de forma segura.",
-    "video_url": "",
+    "video_url": "https://ameth-toledo.github.io/recursos/videos/video1.mp4",
     "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado. Aquí aprenderás a cómo configurar correctamente los puertos en tu instancia de AWS para exponer servicios de manera segura.",
-    "repositorio": "https://ameth-toledo.github.io/recursos/videos/video1.mp4"
+    "repositorio": ""
   },
   {
     "id": 2,
