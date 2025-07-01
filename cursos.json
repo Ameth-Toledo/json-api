@@ -7,7 +7,7 @@
     "tecnologia": "MySQL, AWS",
     "fecha": "15 Julio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/Despliegue%20de%20Bases%20de%20Datos.png",
-    "descripcion": "Aprende a instalar y configurar bases de datos MySQL en AWS EC2, con buenas prácticas de seguridad y conexión remota."
+    "descripcion": "Aprende a configurar e instalar una base de datos MySQL en AWS EC2 desde cero. Este curso cubre la creación de la instancia, ajustes de red, conexión remota y recomendaciones de seguridad para entornos reales."
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "tecnologia": "JavaScript, AWS",
     "fecha": "29 Junio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/2.png",
-    "descripcion": "Despliega tus APIs REST creadas con Node.js en AWS EC2, con configuración de entorno, CORS y dependencias."
+    "descripcion": "En este curso aprenderás a desplegar tus APIs REST desarrolladas con Node.js y Express en servidores EC2. Verás cómo instalar dependencias, configurar el entorno, manejar CORS y exponer tus servicios de forma segura."
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "tecnologia": "HTML, CSS, JS",
     "fecha": "6 Julio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/3.png",
-    "descripcion": "Publica tus sitios web en AWS EC2 usando Nginx, con configuración de proxy para cualquier framework frontend."
+    "descripcion": "Aprende a desplegar tus aplicaciones web con HTML, CSS y JavaScript en servidores EC2. Configura Nginx como servidor web y realiza ajustes de proxy reverso para frameworks como React, Vue o Angular."
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "tecnologia": "JavaScript",
     "fecha": "29 Junio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/4.png",
-    "descripcion": "Aprende los fundamentos de programación con JavaScript: variables, bucles, condicionales, funciones y más."
+    "descripcion": "Curso ideal para principiantes que desean entender la lógica de programación utilizando JavaScript. Aprenderás a trabajar con variables, condicionales, bucles, funciones y estructuras básicas de forma práctica y clara."
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "tecnologia": "Node.js",
     "fecha": "6 Julio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/5.png",
-    "descripcion": "Crea APIs RESTful con Node.js y Express, organizando rutas, middlewares y respuestas JSON de forma eficiente."
+    "descripcion": "Descubre cómo crear APIs REST usando Node.js y Express. Desde la creación de rutas y controladores hasta la organización del código, trabajarás con middlewares y verás cómo conectar tu API a una base de datos."
   },
   {
     "id": 6,
@@ -57,6 +57,6 @@
     "tecnologia": "MySQL",
     "fecha": "15 Julio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/images/6.png",
-    "descripcion": "Domina los principios de la POO aplicados a proyectos con MySQL: clases, objetos, herencia y encapsulamiento."
+    "descripcion": "Este curso te enseñará los fundamentos de la Programación Orientada a Objetos: clases, herencia, encapsulamiento y más. También aplicarás estos conceptos en proyectos prácticos con almacenamiento de datos en MySQL."
   }
 ]
