@@ -2,7 +2,7 @@
   {
     "id": 1,
     "id_modulo": 1,
-    "imagen_portada": "https://ameth-toledo.github.io/recursos/images/Despliegue%20de%20Bases%20de%20Datos.png",
+    "imagen_portada": "aws",
     "titulo": "Configuración de puertos en instancia de AWS",
     "descripcion": "configuración correcta de los puertos para exponer tu base de datos en AWS de forma segura.",
     "video_url": "",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "id_modulo": 2,
-    "imagen_portada": "https://ameth-toledo.github.io/recursos/images/Despliegue%20de%20Bases%20de%20Datos.png",
+    "imagen_portada": "aws",
     "titulo": "Instalación de MySQL",
     "descripcion": "Instalación de dependencias nesesarias para correr la base de datos.",
     "video_url": "",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "id_modulo": 3,
-    "imagen_portada": "https://ameth-toledo.github.io/recursos/images/Despliegue%20de%20Bases%20de%20Datos.png",
+    "imagen_portada": "aws",
     "titulo": "Configuración de MySQL para Acceso Remoto",
     "descripcion": "Configuracion de acceso remoto para permitir todas las conexiones remotas.",
     "video_url": "",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "id_modulo": 4,
-    "imagen_portada": "https://ameth-toledo.github.io/recursos/images/Despliegue%20de%20Bases%20de%20Datos.png",
+    "imagen_portada": "aws",
     "titulo": "Conexión con workbech por medio de IP",
     "descripcion": "Configuracion de acceso remoto para permitir todas las conexiones remotas.",
     "video_url": "",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "id_modulo": 5,
-    "imagen_portada": "https://ameth-toledo.github.io/recursos/images/2.png",
+    "imagen_portada": "nodejs",
     "titulo": "Configuración de CORS para API REST",
     "descripcion": "Cómo configurar CORS correctamente en tu API desplegada en AWS.",
     "video_url": "",
