@@ -58,5 +58,35 @@
     "fecha": "15 Julio 2025",
     "imagen": "https://ameth-toledo.github.io/recursos/imagenes/6.png",
     "descripcion": "Este curso te enseñará los fundamentos de la Programación Orientada a Objetos: clases, herencia, encapsulamiento y más. También aplicarás estos conceptos en proyectos prácticos con almacenamiento de datos en MySQL."
+  },
+  {
+    "id": 7,
+    "nombre": "Linux Command Line Basico - Intermedio",
+    "nivel": "Intermedio",
+    "duracion": "10 semanas",
+    "tecnologia": "Linux",
+    "fecha": "15 Julio 2025",
+    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/7.png",
+    "descripcion": "Este curso te enseñará los fundamentos de Computación en el sistema operativo Linux: comandos básicos, gestión de archivos, permisos y procesos. También aplicarás estos conocimientos en entornos reales para administrar y automatizar tareas."
+  },
+  {
+    "id": 8,
+    "nombre": "Git/Github Sistema de control de versiones",
+    "nivel": "Basico",
+    "duracion": "10 semanas",
+    "tecnologia": "Git - Github",
+    "fecha": "15 Julio 2025",
+    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/8.png",
+    "descripcion": "Este curso te enseñará los fundamentos de control de versiones con Git y la colaboración en proyectos usando GitHub. Aprenderás a gestionar ramas, realizar commits, resolver conflictos y trabajar con flujos de trabajo reales en equipo."
+  },
+  {
+    "id": 9,
+    "nombre": "HTML, CSS Y JavaScript",
+    "nivel": "Avanzado",
+    "duracion": "10 semanas",
+    "tecnologia": "MySQL",
+    "fecha": "15 Julio 2025",
+    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/9.png",
+    "descripcion": "Este curso te enseñará a construir sitios web desde cero utilizando HTML para la estructura, CSS para el diseño visual y JavaScript para la interactividad. También aplicarás estos conocimientos en proyectos prácticos con enfoque responsivo y dinámico."
   }
 ]
