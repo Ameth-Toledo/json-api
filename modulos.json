@@ -2,35 +2,35 @@
   {
     "id": 1,
     "id_curso": 1,
-    "imagen_portada": "https://ameth-toledo.github.io/recursos/images/Despliegue%20de%20Bases%20de%20Datos.png",
+    "imagen_portada": "https://ameth-toledo.github.io/recursos/imagenes/1.webp",
     "titulo": "Configuración de puertos en instancia de AWS",
     "descripcion": "configuración correcta de los puertos para exponer tu base de datos en AWS de forma segura."
   },
   {
     "id": 2,
     "id_curso": 1,
-    "imagen_portada": "https://ameth-toledo.github.io/recursos/images/Despliegue%20de%20Bases%20de%20Datos.png",
+    "imagen_portada": "https://ameth-toledo.github.io/recursos/imagenes/1.webp",
     "titulo": "Instalación de MySQL",
     "descripcion": "Instalación de dependencias nesesarias para correr la base de datos."
   },
   {
     "id": 3,
     "id_curso": 1,
-    "imagen_portada": "https://ameth-toledo.github.io/recursos/images/Despliegue%20de%20Bases%20de%20Datos.png",
+    "imagen_portada": "https://ameth-toledo.github.io/recursos/imagenes/1.webp",
     "titulo": "Configuración de MySQL para Acceso Remoto",
     "descripcion": "Configuracion de acceso remoto para permitir todas las conexiones remotas."
   },
   {
     "id": 4,
     "id_curso": 1,
-    "imagen_portada": "https://ameth-toledo.github.io/recursos/images/Despliegue%20de%20Bases%20de%20Datos.png",
+    "imagen_portada": "https://ameth-toledo.github.io/recursos/imagenes/1.webp",
     "titulo": "Conexión con workbech por medio de IP",
     "descripcion": "Configuracion de acceso remoto para permitir todas las conexiones remotas."
   },
   {
     "id": 5,
     "id_curso": 2,
-    "imagen_portada": "https://ameth-toledo.github.io/recursos/images/2.png",
+    "imagen_portada": "https://ameth-toledo.github.io/recursos/imagenes/2.webp",
     "titulo": "Configuración de CORS para API REST",
     "descripcion": "Cómo configurar CORS correctamente en tu API desplegada en AWS."
   }

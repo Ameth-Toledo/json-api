@@ -42,7 +42,7 @@
   {
     "id": 5,
     "id_modulo": 5,
-    "imagen_portada": "node",
+    "imagen_portada": "nodejs",
     "titulo": "Configuración de CORS para API REST",
     "descripcion": "Cómo configurar CORS correctamente en tu API desplegada en AWS.",
     "video_url": "",

@@ -6,7 +6,7 @@
     "duracion": "4 módulos",
     "tecnologia": "MySQL, AWS",
     "fecha": "15 Julio 2025",
-    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/1.png",
+    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/1.webp",
     "descripcion": "Aprende a configurar e instalar una base de datos MySQL en AWS EC2 desde cero. Este curso cubre la creación de la instancia, ajustes de red, conexión remota y recomendaciones de seguridad para entornos reales."
   },
   {
@@ -16,7 +16,7 @@
     "duracion": "8 semanas",
     "tecnologia": "JavaScript, AWS",
     "fecha": "29 Junio 2025",
-    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/2.png",
+    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/2.webp",
     "descripcion": "En este curso aprenderás a desplegar tus APIs REST desarrolladas con Node.js y Express en servidores EC2. Verás cómo instalar dependencias, configurar el entorno, manejar CORS y exponer tus servicios de forma segura."
   },
   {
@@ -26,7 +26,7 @@
     "duracion": "6 semanas",
     "tecnologia": "HTML, CSS, JS",
     "fecha": "6 Julio 2025",
-    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/3.png",
+    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/3.webp",
     "descripcion": "Aprende a desplegar tus aplicaciones web con HTML, CSS y JavaScript en servidores EC2. Configura Nginx como servidor web y realiza ajustes de proxy reverso para frameworks como React, Vue o Angular."
   },
   {
@@ -36,7 +36,7 @@
     "duracion": "8 semanas",
     "tecnologia": "JavaScript",
     "fecha": "29 Junio 2025",
-    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/4.png",
+    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/4.webp",
     "descripcion": "Curso ideal para principiantes que desean entender la lógica de programación utilizando JavaScript. Aprenderás a trabajar con variables, condicionales, bucles, funciones y estructuras básicas de forma práctica y clara."
   },
   {
@@ -46,7 +46,7 @@
     "duracion": "6 semanas",
     "tecnologia": "Node.js",
     "fecha": "6 Julio 2025",
-    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/5.png",
+    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/5.webp",
     "descripcion": "Descubre cómo crear APIs REST usando Node.js y Express. Desde la creación de rutas y controladores hasta la organización del código, trabajarás con middlewares y verás cómo conectar tu API a una base de datos."
   },
   {
@@ -56,7 +56,7 @@
     "duracion": "10 semanas",
     "tecnologia": "MySQL",
     "fecha": "15 Julio 2025",
-    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/6.png",
+    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/6.webp",
     "descripcion": "Este curso te enseñará los fundamentos de la Programación Orientada a Objetos: clases, herencia, encapsulamiento y más. También aplicarás estos conceptos en proyectos prácticos con almacenamiento de datos en MySQL."
   },
   {
@@ -66,7 +66,7 @@
     "duracion": "10 semanas",
     "tecnologia": "Linux",
     "fecha": "15 Julio 2025",
-    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/7.png",
+    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/7.webp",
     "descripcion": "Este curso te enseñará los fundamentos de Computación en el sistema operativo Linux: comandos básicos, gestión de archivos, permisos y procesos. También aplicarás estos conocimientos en entornos reales para administrar y automatizar tareas."
   },
   {
@@ -76,7 +76,7 @@
     "duracion": "10 semanas",
     "tecnologia": "Git - Github",
     "fecha": "15 Julio 2025",
-    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/8.png",
+    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/8.webp",
     "descripcion": "Este curso te enseñará los fundamentos de control de versiones con Git y la colaboración en proyectos usando GitHub. Aprenderás a gestionar ramas, realizar commits, resolver conflictos y trabajar con flujos de trabajo reales en equipo."
   },
   {
@@ -86,7 +86,7 @@
     "duracion": "10 semanas",
     "tecnologia": "MySQL",
     "fecha": "15 Julio 2025",
-    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/9.png",
+    "imagen": "https://ameth-toledo.github.io/recursos/imagenes/9.webp",
     "descripcion": "Este curso te enseñará a construir sitios web desde cero utilizando HTML para la estructura, CSS para el diseño visual y JavaScript para la interactividad. También aplicarás estos conocimientos en proyectos prácticos con enfoque responsivo y dinámico."
   }
 ]
