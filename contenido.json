@@ -7,7 +7,7 @@
     "descripcion": "configuración correcta de los puertos para exponer tu base de datos en AWS de forma segura.",
     "video_url": "https://ameth-toledo.github.io/recursos/videos/video1.mp4",
     "descripcion_module": "Hola! te saluda Ameth Toledo, espero que este curso sea de tu agrado. Aquí aprenderás a cómo configurar correctamente los puertos en tu instancia de AWS para exponer servicios de manera segura.",
-    "repositorio": ""
+    "repositorio": "https://github.com/Ameth-Toledo/Front_Free.git"
   },
   {
     "id": 2,
