@@ -47,5 +47,12 @@
     "imagen_portada": "https://ameth-toledo.github.io/recursos/imagenes/9.webp",
     "titulo": "Entorno de trabajo",
     "descripcion": "Instalación y configuración básica para comenzar con HTML, CSS y JavaScript."
+  },
+  {
+    "id": 8,
+    "id_curso": 9,
+    "imagen_portada": "https://ameth-toledo.github.io/recursos/imagenes/9.webp",
+    "titulo": "Estructura básica de HTML",
+    "descripcion": "Aprende a crear la estructura inicial de una página web con HTML."
   }
 ]
