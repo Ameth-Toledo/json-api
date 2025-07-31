@@ -40,5 +40,12 @@
     "imagen_portada": "https://ameth-toledo.github.io/recursos/imagenes/2.webp",
     "titulo": "Configuración de CORS para API REST",
     "descripcion": "Cómo configurar CORS correctamente en tu API desplegada en AWS."
+  },
+  {
+    "id": 7,
+    "id_curso": 9,
+    "imagen_portada": "https://ameth-toledo.github.io/recursos/imagenes/9.webp",
+    "titulo": "Entorno de trabajo",
+    "descripcion": "Instalación y configuración básica para comenzar con HTML, CSS y JavaScript."
   }
 ]
